@@ -1,0 +1,30 @@
+{
+    "name": "soxsnation_updater",
+    "description": "soxsnation_updater",
+    "version": "0.0.1",
+    "private": true,
+    "engines": {
+        "node": ">= 5.0.0"
+    },
+    "main": "soxsnation.js",
+    "dependencies": {
+        "async": "2.0.1",
+        "bluebird": "3.4.6",
+        "nuts-serve": "3.1.1"
+    },
+    "devDependencies": {
+    },
+    "author": {
+        "name": "Andrew Brown"
+    },
+    "maintainers": [{
+        "name": "Andrew Brown",
+        "email": "andrew@soxsnation.com"
+    }],
+    "scripts": {
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/soxsnation/soxsnation_updater/issues"
+    }
+}
